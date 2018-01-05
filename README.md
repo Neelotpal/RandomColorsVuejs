@@ -1,18 +1,8 @@
-# scsstry
+# RandomColorsVuejs
 
-> A Vue.js project
+> A Vue.js project that shows random colors in an expanding grid.
+> Watching the screen makes you feel trippy.
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+The project does not contain 'node_modules'. 
+Hence run 'npm install' first,
+then run command: 'npm run build' or 'npm run dev'
